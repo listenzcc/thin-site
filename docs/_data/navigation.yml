@@ -1,0 +1,25 @@
+main:
+  - title: "Help"
+    url: /help-center/
+
+  - title: "Search"
+    url: /search/
+
+  - title: "Posts"
+    url: /year-archive/
+
+  - title: "Categories"
+    url: /categories/
+
+  # - title: "Tags (N.A.)"
+  #   url: /tags/
+
+  # - title: "Pages (N.A.)"
+  #   url: /page-archive/
+
+  # - title: "Collections (N.A.)"
+  #   url: /collection-archive/
+
+  - title: "External Link"
+    url: https://github.com/listenzcc
+    target: _blank
