@@ -67,6 +67,7 @@ author:
 plugins:
   - jekyll-feed
   - jekyll-toc
+  - jekyll-include-cache
   - rouge
 # Exclude from processing.
 # The following items will not be processed, by default.
